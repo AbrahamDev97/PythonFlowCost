@@ -6,6 +6,7 @@ from tkinter import messagebox
 from tkinter import font
 from tkinter import Canvas
 
+
 def Interfaz():
     window=Tk()
     window.geometry("500x300")
